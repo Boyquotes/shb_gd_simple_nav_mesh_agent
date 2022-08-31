@@ -1,4 +1,4 @@
-# GDSMPNVGNT - Studi Kasus Godot Engine Simple NavMesh Agent
+# GDSMPNVGNT - Simple NavMesh Agent dengan Godot Engine
 
 ## Cara Mencoba Kode Ini
 
