@@ -1,5 +1,9 @@
 # GDSMPNVGNT - Simple NavMesh Agent dengan Godot Engine
 
+## Software Apakah Ini?
+
+GDSMPNVGNT adalah script Godot Engine yang menunjukkan cara membuat simple NavMesh Agent dengan Godot Engine.
+
 ## Cara Mencoba Kode Ini
 
 Untuk mencoba project ini, download folder ini, kemudian buka di Godot Engine 3.4.
