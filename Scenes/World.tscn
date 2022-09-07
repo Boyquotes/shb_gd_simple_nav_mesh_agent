@@ -26,7 +26,6 @@ navmesh = SubResource( 1 )
 [node name="MeshInstance" type="MeshInstance" parent="Navigation/NavigationMeshInstance"]
 transform = Transform( 10, 0, 0, 0, 1, 0, 0, 0, 10, 0, 0, 0 )
 mesh = SubResource( 2 )
-material/0 = null
 
 [node name="StaticBody" type="StaticBody" parent="Navigation/NavigationMeshInstance/MeshInstance"]
 
@@ -36,7 +35,6 @@ shape = SubResource( 3 )
 [node name="MeshInstance2" type="MeshInstance" parent="Navigation/NavigationMeshInstance"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.868441, -2.05166 )
 mesh = SubResource( 4 )
-material/0 = null
 
 [node name="StaticBody" type="StaticBody" parent="Navigation/NavigationMeshInstance/MeshInstance2"]
 
@@ -46,7 +44,6 @@ shape = SubResource( 5 )
 [node name="MeshInstance3" type="MeshInstance" parent="Navigation/NavigationMeshInstance"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.28743, 0.868441, 5.79675 )
 mesh = SubResource( 4 )
-material/0 = null
 
 [node name="StaticBody" type="StaticBody" parent="Navigation/NavigationMeshInstance/MeshInstance3"]
 
@@ -56,7 +53,6 @@ shape = SubResource( 5 )
 [node name="MeshInstance4" type="MeshInstance" parent="Navigation/NavigationMeshInstance"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.93255, 0.868441, 3.30223 )
 mesh = SubResource( 4 )
-material/0 = null
 
 [node name="StaticBody" type="StaticBody" parent="Navigation/NavigationMeshInstance/MeshInstance4"]
 
