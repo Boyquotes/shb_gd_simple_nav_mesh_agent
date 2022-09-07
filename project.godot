@@ -14,7 +14,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="studi-kasus-godot-engine-simple-navmesh-agent"
+config/name="GDSMPNVGNT"
 run/main_scene="res://Scenes/World.tscn"
 config/icon="res://icon.png"
 
