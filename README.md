@@ -1,5 +1,9 @@
 # SHBGDSimpleNavMeshAgent - Simple NavMesh Agent dengan Godot Engine
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 SHBGDSimpleNavMeshAgent adalah script Godot Engine yang menunjukkan cara membuat simple NavMesh Agent dengan Godot Engine.
