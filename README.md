@@ -1,12 +1,5 @@
 # SHBGDSimpleNavMeshAgent - Simple NavMesh Agent dengan Godot Engine
 
-## Link-Link Penting
-
-- SOFTWARE GRATIS: https://shbfrlnc.github.io/
-- BLOG: https://shbfrlnc.github.io/tags/blog/
-- PENGUMUMAN: https://shbfrlnc.github.io/tags/pengumuman/
-- DUKUNG: https://shbfrlnc.github.io/dukung.html
-
 ## Software Apakah Ini?
 
 SHBGDSimpleNavMeshAgent adalah script Godot Engine yang menunjukkan cara membuat simple NavMesh Agent dengan Godot Engine.
