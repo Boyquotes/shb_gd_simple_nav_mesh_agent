@@ -1,4 +1,4 @@
-# SHBGDSimpleNavMeshAgent - Simple NavMesh Agent dengan Godot Engine
+# shb_gd_simple_nav_mesh_agent - Simple NavMesh Agent dengan Godot Engine
 
 ## Software Apakah Ini?
 
