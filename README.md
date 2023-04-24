@@ -2,23 +2,7 @@
 
 ## Software Apakah Ini?
 
-SHBGDSimpleNavMeshAgent adalah script Godot Engine yang menunjukkan cara membuat simple NavMesh Agent dengan Godot Engine.
-
-## Screenshot
-
-![ScreenShot](.readme-assets/SHBGDSimpleNavMeshAgent-1.png?raw=true)
-
-## Cara Mencoba Kode Ini
-
-Untuk mencoba kode ini, Anda memerlukan Godot Engine v3.5.
-
-Download dan install software tersebut...
-
-Kemudian buka project ini dan jalankan.
-
-## Pendahuluan
-
-Kali ini saya akan memberi contoh cara membuat NavMesh Agent sederhana di Godot Engine.
+shb_gd_simple_nav_mesh_agent adalah script Godot Engine yang menunjukkan cara membuat simple NavMesh Agent dengan Godot Engine.
 
 Jika Anda pernah belajar Unity sebelumnya, Anda mungkin menyadari ada komponen bernama NavMeshAgent di Unity.
 
@@ -34,6 +18,14 @@ NavMeshAgent ini bekerja dengan memproses input posisi target menjadi array posi
 
 Adapun posisi target diperoleh dengan mengonversi posisi kursor di koordinat layar menjadi posisi di ruang 3D.
 
-## Struktur Project
+## Cara Mencoba Kode Ini
 
-Untuk melihat struktur project game ini, silakan buka project ini di Godot Engine.
+Untuk mencoba kode ini, Anda memerlukan Godot Engine.
+
+Download dan install software tersebut...
+
+Kemudian buka project ini dan jalankan.
+
+## Screenshot
+
+![ScreenShot](.readme-assets/SHBGDSimpleNavMeshAgent-1.png?raw=true)
